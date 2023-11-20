@@ -3,7 +3,7 @@
 ## Sobre mim:
 🙋🏻‍♀️ Olá, meu nome é Jéssica, mas me chamam de Jessie!
 
-👵🏼Tenho 30 anos;
+👵🏼Tenho 31 anos;
 
 ⚖ Formada em Direito e atualmente em transição de carreira para a área de Tecnologia;
 
@@ -30,6 +30,8 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JessieCastanheira&repo=projeto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JessieCastanheira/projeto)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JessieCastanheira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JessieCastanheira/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JessieCastanheira&repo=js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JessieCastanheira/js-developer-pokedex)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JessieCastanheira&repo=Angular-PsStore&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/JessieCastanheira/js-developer-pokedex](https://github.com/JessieCastanheira?tab=repositories)
+
 <!---
 JessieCastanheira/JessieCastanheira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
